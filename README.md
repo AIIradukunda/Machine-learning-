@@ -2,7 +2,7 @@
 
 # Regression Types
 
--- simple linear regression 
+--simple linear regression 
 
 predicts variable y(dependent variable) based on another variable x(dependent variable)
 
