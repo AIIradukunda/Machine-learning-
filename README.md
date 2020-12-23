@@ -4,7 +4,7 @@
 
 - Simple linear regression 
 
-predicts variable y(dependent variable) based on another variable x(dependent variable)
+predicts variable y(dependent variable) based on another variable x(independent variable)
 
 it is  simple because it examines  btn two variables only. It is linear because the variable increases or decreases in a linear fashion.
 
