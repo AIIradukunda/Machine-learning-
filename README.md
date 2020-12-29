@@ -18,8 +18,9 @@ The K-Nearest Neighbors algorithm (K-NN or KNN) is a supervised learning method 
   
 # Unsupervised learning
 
-We do not supervise the model, but we let the model work on its own to discover information that may not be visible to the human eye.  -- uses UNLABELED data.
-Unsupervised Learning usually deals with algorithms that utilize centroids.
+We do not supervise the model, but we let the model work on its own to discover information that may not be visible to the human eye. 
+- Uses UNLABELED data.
+- Unsupervised Learning usually deals with algorithms that utilize centroids.
 
 
 Some of these algorithms include:
