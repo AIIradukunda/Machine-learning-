@@ -1,5 +1,5 @@
-# ML
-# Machine Learning with R
+
+# Machine Learning 
 
 - The puprose of ML is to make machines more self-sufficient so that they are able to analyze data , recognize pattern, automate processes and make them more efficient 
 - Statistical Modelling is a subfield of math that deals with finding relationships between
